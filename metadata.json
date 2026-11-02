@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Jockshan and Menalin",
+  "description": "Explore our curated collection of lifestyle insights, creative projects, and personal inspirations on our dedicated online platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
